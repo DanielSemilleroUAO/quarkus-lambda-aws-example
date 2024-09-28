@@ -1,5 +1,6 @@
-package com.daniel;
+package com.daniel.services;
 
+import com.daniel.entities.Fruit;
 import io.smallrye.mutiny.Uni;
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;

@@ -1,4 +1,4 @@
-package com.daniel;
+package com.daniel.controllers;
 
 import static io.quarkus.vertx.web.Route.HttpMethod.*;
 

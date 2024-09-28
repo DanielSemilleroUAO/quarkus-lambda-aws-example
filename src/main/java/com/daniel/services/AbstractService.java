@@ -1,5 +1,6 @@
-package com.daniel;
+package com.daniel.services;
 
+import com.daniel.entities.Fruit;
 import software.amazon.awssdk.services.dynamodb.model.AttributeValue;
 import software.amazon.awssdk.services.dynamodb.model.GetItemRequest;
 import software.amazon.awssdk.services.dynamodb.model.PutItemRequest;

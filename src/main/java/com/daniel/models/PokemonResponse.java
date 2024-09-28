@@ -1,4 +1,4 @@
-package com.daniel;
+package com.daniel.models;
 
 import io.quarkus.runtime.annotations.RegisterForReflection;
 import lombok.*;

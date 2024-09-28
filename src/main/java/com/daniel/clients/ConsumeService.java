@@ -1,5 +1,6 @@
-package com.daniel;
+package com.daniel.clients;
 
+import com.daniel.models.PokemonResponse;
 import io.smallrye.mutiny.Uni;
 import jakarta.ws.rs.Consumes;
 import jakarta.ws.rs.GET;
